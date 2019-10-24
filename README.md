@@ -2,6 +2,6 @@
 Based off Udemy.com class by Stephen Grider
 
 
-HEROKU URL: https://vast-cove-67771.herokuapp.com
+HEROKU URL: https://peaceful-reef-93255.herokuapp.com/
 
-GOOGLE OAUTH FLOW: https://vast-cove-67771.herokuapp.com/auth/google
+GOOGLE OAUTH FLOW: https://peaceful-reef-93255.herokuapp.com/auth/google
