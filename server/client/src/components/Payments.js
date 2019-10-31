@@ -7,7 +7,7 @@ import * as actions from '../actions';
 class Payments extends Component {
 
     render(){
-        console.log(process.env.REACT_APP_STRIPE_KEY);
+        //console.log(process.env.REACT_APP_STRIPE_KEY);
         return(<StripeCheckout
             name="Emaily"
             description="$5 for 5 Emaily credits!"
