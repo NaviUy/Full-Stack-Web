@@ -46,7 +46,7 @@ function validate(values) {
     _.each(formFields, ({ name }) => {
 
         if(!values[name]) {
-            if(name == 'emails'){
+            if(name === 'emails'){
                 errors[name] = 'You must provide ' + name + ".";
             } else {
                 errors[name] = 'You must provide a ' + name + ".";
